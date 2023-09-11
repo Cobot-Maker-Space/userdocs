@@ -6,7 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'userdocs'
+import sphinx_rtd_theme
+
+project = 'Cobot Maker Space User Docs'
 copyright = '2023, Simon Castle-Green'
 author = 'Simon Castle-Green'
 release = '0.0.1'
