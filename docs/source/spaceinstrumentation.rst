@@ -89,7 +89,7 @@ IP Address.::
     10.0.10.11
 
 Read only API token.:: 
-    Pz_3Zx3swJm1nRQgvL_JsoZvDy1H75CdCE2fUzghHTDbAOtyNL_ExoYTNukDCYaDjMFP2Rue20SyXf-QxIU5Zg==
+    <AVAILABLE_ON_REQUEST>
 
 
 This InfluxDB is used only for writing data from the OpenHAB system to and only read access is provided to other systems and users. If you want to explore using the InfluxDB UI for creating dashboards etc, then you will need to install your own instance and replicate the data to your installation. A quick way of getting an InfluxDB instance is to use Docker and the officical InfluxDB image
