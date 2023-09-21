@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 import sphinx_rtd_theme
 
-project = 'Cobot Maker Space User Docs'
+project = 'CMS - User Docs'
 copyright = '2023, Simon Castle-Green'
 author = 'Simon Castle-Green'
 release = '0.0.1'
