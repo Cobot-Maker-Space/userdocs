@@ -4,14 +4,15 @@
 # Required
 version: 2
 
-python: 
-  version: "3.10"
-  install:
-    - requirements: docs/requirements.txt
-
 # Set the version of Python
 build:
   os: ubuntu-20.04 
+  tools:
+    python: 
+      version: "3.10"
+      install:
+        - requirements: docs/requirements.txt
+
 
 # Configuration for Sphinx documentation
 sphinx:
