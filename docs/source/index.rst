@@ -6,7 +6,7 @@ Introduction
 ============
 Welcome to the Cobot Maker Space. 
 
-H
+
 Access
 ======
 Before being granted access to the space, users will need to have an induction. To organise an induction please email info@cobotmakerspace.org.
