@@ -10,12 +10,12 @@ build:
   tools:
     python: 
       version: "3.10"
-      install:
-        - requirements: docs/requirements.txt
-
 
 # Configuration for Sphinx documentation
 sphinx:
    configuration: docs/source/conf.py
    fail_on_warning: true
 
+python:
+  install:
+    - requirements: docs/requirements.txt
